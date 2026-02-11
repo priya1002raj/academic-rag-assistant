@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# API keys
+.env
+
+# Local vector DB
+vectorstore/
+
+# Data PDFs
+data/pdfs/
+
+# Cache
+__pycache__/
+
+# Streamlit cache
+.streamlit/
+
+# macOS junk
+.DS_Store
